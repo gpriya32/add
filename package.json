@@ -23,7 +23,7 @@
     "url": "http://github.com/Raynos/add/raw/master/LICENSE"
   }],
   "scripts": {
-    "test": "node ./test/index.js"
+    "test": "node./test/index.js"
   },
   "testling": {
     "files": "test/index.js",
